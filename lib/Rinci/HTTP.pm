@@ -1,6 +1,6 @@
 package Rinci::HTTP;
 
-our $VERSION = '1.1.0'; # VERSION
+our $VERSION = '1.1.1'; # VERSION
 
 1;
 # ABSTRACT: Request metadata and perform actions on code entities over HTTP
@@ -14,7 +14,7 @@ Rinci::HTTP - Request metadata and perform actions on code entities over HTTP
 
 =head1 VERSION
 
-version 1.1.0
+version 1.1.1
 
 =head1 AUTHOR
 

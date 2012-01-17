@@ -16,4 +16,4 @@ name: Rinci-HTTP
 resources:
   homepage: http://metacpan.org/release/Rinci-HTTP
   repository: http://github.com/sharyanto/perl-Rinci-HTTP
-version: 1.1.0
+version: 1.1.1
